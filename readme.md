@@ -3,7 +3,7 @@
 SkillSwap is a web-based platform where users can exchange skills with each other without any monetary transaction. Instead of paying for classes, users teach a skill they know in return for learning a skill they want. It's a time-barter system that promotes collaborative learning....
 
 
-## Key Features:
+## Key Features:...
 
 User Profiles: Each user can list skills they offer and skills they want to learn.
 
@@ -17,7 +17,7 @@ Chat System: Secure in-platform messaging for coordination.
 
 Gamification: Badges, levels, and progress tracking to keep users engage
 
-## Tech Stack 
+## Tech Stack ...
 
  ** Frontend : React.js , HTML , CSS , JavaScript , tailwind css 
  ** Backend  : Node.js , Express.js
@@ -129,7 +129,7 @@ Goal: Enable session booking and time management.
 
 ** Frontend booking page with calendar & slots.
 
-## Day 5: Chat & Ratings
+## Day 5: Chat & Ratings 
 Goal: Communication and feedback features.
 
 ** Implement secure messaging (Socket.io or simple chat system).
@@ -144,7 +144,7 @@ API: POST /review, GET /reviews/:userId.
 
 ** Add moderation logic (e.g., report abuse).
 
-## Day 6: Gamification & Polishing
+## Day 6: Gamification & Polishing 
 Goal: Make the platform engaging and clean.
 
 ** Add badges/level logic (based on hours taught/learned).
@@ -157,7 +157,7 @@ Goal: Make the platform engaging and clean.
 
 ** Clean up codebase and improve error handling.
 
-## Day 7: Deployment & Final Testing
+## Day 7: Deployment & Final Testing 
 Goal: Launch MVP version.
 
 ** Deploy frontend (Netlify or Vercel).
